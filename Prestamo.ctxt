@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Prestamo
+comment1.params=numero\ socio
+comment1.target=Prestamo(int,\ Socio)
+comment2.params=detalle
+comment2.target=void\ agregarDetalle(DetallePrestamo)
+numComments=3
